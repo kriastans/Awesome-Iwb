@@ -42,7 +42,7 @@
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
-| [CASIO计算器](#-CASIO计算器)| `CASIO` _Collected by [IUU6](https://github.com/iuu6/)_ |
+| [CASIO计算器](#CASIO计算器) | `CASIO` _Collected by [IUU6](https://github.com/iuu6/)_ |
 
 
 ## 批注软件
@@ -311,4 +311,4 @@ PPT触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击�
 包含`fx-ES系列`，`fx-ES PLUS系列`，`ClassWiz系列`以及`fx-ES PLUS (2nd Edition)`系列大部分计算器，方便老师直接调用使用
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/kriastans/Awesome-Iwb/tree/master/CASIO">https://github.com/kriastans/Awesome-Iwb/tree/master/CASIO</a><br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 收集人：</b>: <a href="https://github.com/iuu6/">IUU6</a>
+<img src="images/github-icon.svg" width="16" height="16"><b> 收集人</b>: <a href="https://github.com/iuu6/">IUU6</a>
