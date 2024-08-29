@@ -300,6 +300,11 @@ PPT触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击�
 
 展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前15分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/hello8693DSZ/dsz-exam-showboard/">https://github.com/hello8693DSZ/dsz-exam-showboard/</a>
-<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/hello8693DSZ/dsz-exam-showboard/">https://github.com/hello8693DSZ/dsz-exam-showboard/</a><br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/hello8693DSZ/">Hello8693</a>
+
+### CASIO计算器
+
+包含`fx-ES系列`，`fx-ES PLUS系列`，`ClassWiz系列`以及`fx-ES PLUS (2nd Edition)`系列大部分计算器，方便老师直接调用使用
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/kriastans/Awesome-Iwb/tree/master/CASIO">https://github.com/kriastans/Awesome-Iwb/tree/master/CASIO</a>
