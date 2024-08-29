@@ -42,7 +42,7 @@
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
-| [CASIO计算器](#-考试看板)| `CASIO` _Collected by [IUU6](https://github.com/iuu6/)_ |
+| [CASIO计算器](#-CASIO计算器)| `CASIO` _Collected by [IUU6](https://github.com/iuu6/)_ |
 
 
 ## 批注软件
