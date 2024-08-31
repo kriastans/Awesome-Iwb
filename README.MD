@@ -150,6 +150,8 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
 
+![banner](banner/inkways-classic.png)
+
 ![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Free-green)
