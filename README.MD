@@ -133,20 +133,24 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 <br/>
 
-### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
+### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (Coming soon)
 
-![MDS](https://img.shields.io/badge/Minimal%20Design%20System-003E92)
+![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Freemium-green)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
+![Platforms](https://img.shields.io/badge/win%20%7C%20mac%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
+)<br/>
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
+[![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
 > [!note]
 >
-> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic!
+> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
 
-跨平台且易用的，集笔记，教育等场景于一体的完整版墨迹套件。
+跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。
 
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+<img src="images/world-icon.svg" width="16" height="16"><b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 
@@ -154,18 +158,21 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
 
-![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
+![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Free-green)
+![Platforms](https://img.shields.io/badge/win-green?label=supports
+)<br/>
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
 完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
 
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+<img src="images/world-icon.svg" width="16" height="16"><b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 <br/>
-
 
 ## 课表与桌面小工具
 
