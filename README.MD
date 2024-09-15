@@ -150,7 +150,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。
 
-<img src="images/world-icon.svg" width="16" height="16"><b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+<img src="images/world-icon.svg" width="16" height="16"><b> 官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 
@@ -169,7 +169,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
 
-<img src="images/world-icon.svg" width="16" height="16"><b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+<img src="images/world-icon.svg" width="16" height="16"><b> 官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 <br/>
