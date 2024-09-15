@@ -21,7 +21,7 @@
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
 | [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
-| [Inkways Vanilla](#-inkways) | `iNKORE Studios` |
+| [Inkways](#-inkways) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
 
 ### 课表与桌面小工具
@@ -167,7 +167,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
-完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
+完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档...本套件包含编辑器，黑板，视频展台，桌面画笔和 PowerPoint 助手。
 
 <img src="images/world-icon.svg" width="16" height="16"><b> 官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
