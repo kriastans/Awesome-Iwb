@@ -21,7 +21,7 @@
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
 | [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
-| [Inkways Vanilla](#-inkways-wip) | `iNKORE Studios` |
+| [Inkways Vanilla](#-inkways) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
 
 ### 课表与桌面小工具
@@ -133,7 +133,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 <br/>
 
-### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (Coming soon)
+### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways
 
 ![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
@@ -148,7 +148,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 >
 > 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
 
-跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。
+跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
 
 <img src="images/world-icon.svg" width="16" height="16"><b> 官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
