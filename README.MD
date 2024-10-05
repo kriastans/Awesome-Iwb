@@ -44,27 +44,32 @@
 | [Inkways](#-inkways-wip) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
 
-### 课表与桌面小工具
+### 课表软件
 
 | 名称 | 开发者 |
 | - | - |
 | [ClassIsland](#-classisland) ![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland) | `HelloWRC` |
 | [ElectronClassSchedule](#-electronclassschedule) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule) | `EnderWolf006` |
+| [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
+| [灵动课表](#灵动课表-rip) ![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form) | `DuguSand` |
+
+### 桌面小工具
+
+| 名称 | 开发者 |
+| - | - |
 | [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker) | `ZongziTEK` |
 | [MoonCakeTEK 黑板贴](#-mooncaketek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/kriastans/MoonCakeTEK-Blackboard-Sticker) | `Doubx690i` |
-| [ClassTools](#classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
+| [ClassTools](#classtools-rip) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
 | [StickyHomeworks](#stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
 | [StickyAttention](#-stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention) | `jizilin6732` |
 | [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
-| [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
-| [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
-| [灵动课表](#灵动课表) ![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form) | `DuguSand` |
+| [Education Clock](#education-clock-rip) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
 
 ### 辅助类软件
 
 | 名称 | 开发者 |
 | - | - |
-| [PPT 触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
+| [PPT 触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist-rip) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
@@ -250,7 +255,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <br/>
 
 
-## 课表与桌面小工具
+## 课表软件
 
 ### <img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="28" height="28"/> ClassIsland
 
@@ -316,6 +321,51 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/EnderWolf006/">EnderWolf006</a>
 
 <br/>
+
+### <img src="https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img/Logo.png" width="28" height="28"/> Class Widgets
+
+![banner](https://raw.githubusercontent.com/RinLit-233-shiroko/Class-Widgets/main/img/Banner.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat)
+![Github Forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/RinLit-233-shiroko/Class-Widgets)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets?logo=python&logoColor=white)
+![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)
+![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+
+Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件，具有上下课提醒和预备铃，拥有主题系统支持你高度自定义，同时也提供快捷的调休和换课应对方案。
+
+💬 **Dubi906w 锐评**：看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，不过开发与更新速度也挺快，比较期待，但是目前来说不会正式在教学环境使用（我还是更推荐使用 CI 的，CW 可以作为尝鲜使用）。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/Class-Widgets/">RinLit-233-shiroko/Class-Widgets</a>
+<br/>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1xwW9eyEGu/">https://www.bilibili.com/video/BV1xwW9eyEGu/</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/RinLit-233-shiroko/">RinLit-233-shiroko</a>
+
+<br/>
+
+> ### ~~灵动课表~~ (R.I.P)
+
+![Github Stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat)
+![Github Forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/DuguSand/class_form)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%9F%BA%E6%9C%AC%E4%BC%BC%E4%BA%86-red)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/DuguSand/class_form?logo=python&logoColor=white)
+![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)
+![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+
+一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
+
+💬 **Dubi906w 锐评**：没用过，不评价，不过也算是 CI 的启蒙导师了。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/DuguSand/">DuguSand</a>
+
+## 桌面小工具
 
 ### <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="28" height="28"/> ZongziTEK 黑板贴
 
@@ -451,31 +501,6 @@ StickyAttention 是一款适用于Windows 系统教室一体机的作业显示�
 
 <br/>
 
-### <img src="https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img/Logo.png" width="28" height="28"/> Class Widgets
-
-![banner](https://raw.githubusercontent.com/RinLit-233-shiroko/Class-Widgets/main/img/Banner.png)
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat)
-![Github Forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/RinLit-233-shiroko/Class-Widgets)
-![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
-![Github Languages Top](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets?logo=python&logoColor=white)
-![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
-
-Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件，具有上下课提醒和预备铃，拥有主题系统支持你高度自定义，同时也提供快捷的调休和换课应对方案。
-
-💬 **Dubi906w 锐评**：看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，不过开发与更新速度也挺快，比较期待，但是目前来说不会正式在教学环境使用（我还是更推荐使用 CI 的，CW 可以作为尝鲜使用）。
-
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/Class-Widgets/">RinLit-233-shiroko/Class-Widgets</a>
-<br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1xwW9eyEGu/">https://www.bilibili.com/video/BV1xwW9eyEGu/</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/RinLit-233-shiroko/">RinLit-233-shiroko</a>
-
-<br/>
-
 > ### ~~Education Clock~~ (R.I.P)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
@@ -494,26 +519,6 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Return-Log/Education-Clock/">Return-Log/Education-Clock</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Return-Log/">Log</a>
-
-<br/>
-
-> ### ~~灵动课表~~ (R.I.P)
-
-![Github Stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat)
-![Github Forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/DuguSand/class_form)
-![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%9F%BA%E6%9C%AC%E4%BC%BC%E4%BA%86-red)<br/>
-![Github Languages Top](https://img.shields.io/github/languages/top/DuguSand/class_form?logo=python&logoColor=white)
-![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)
-![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
-
-一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
-
-💬 **Dubi906w 锐评**：没用过，不评价，不过也算是 CI 的启蒙导师了。
-
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/DuguSand/">DuguSand</a>
 
 ## 辅助类软件
 
