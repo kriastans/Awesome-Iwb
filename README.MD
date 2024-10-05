@@ -1,5 +1,5 @@
 # Awesome-Iwb
-一体机和电子白板实用软件合集
+一体机和电子白板实用软件合集，**Dubi906w 倾情巨献** 
 
 > [!IMPORTANT]
 > **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
@@ -11,6 +11,7 @@
 3. 对于软件本体的错误，应在正确途径报告，而不是在本仓库发起 `Issue` 。
 4. 不允许直接将二进制分发包包体托管到该仓库内。
 5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。
+6. 欢迎各位开发者提交自己开发的软件！
 
 ## 推广
 
@@ -439,6 +440,8 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 
 ### StickyHomeworks
 
+![banner](https://private-user-images.githubusercontent.com/55006226/331800223-d6dc1553-d3ff-4905-907c-aba79089fc9a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxMTY5NTYsIm5iZiI6MTcyODExNjY1NiwicGF0aCI6Ii81NTAwNjIyNi8zMzE4MDAyMjMtZDZkYzE1NTMtZDNmZi00OTA1LTkwN2MtYWJhNzkwODlmYzlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDA4MjQxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5MWM4NGNkMjA3YTQxNWJkZDdmZDhhNjMwYTJmNDIwZTExMDYzM2YzNzE0MGU5OWM1NGY3NGU2NzVlYjNhZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wTyQ6XJXIheJzmOJHuRZojvmOqc9mjS__J7HuwjnrZ0)
+
 ![Github Stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/HelloWRC/StickyHomeworks)
@@ -458,6 +461,8 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 <br/>
 
 ### <img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="28" height="28"/> StickyAttention
+
+![banner](https://github.com/Sticky-attention/Sticky-attention/raw/master/image/%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg)
 
 ![Github Stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat)
@@ -482,6 +487,8 @@ StickyAttention 是一款适用于Windows 系统教室一体机的作业显示�
 <br/>
 
 ### HomeworkBoard
+
+![banner](https://github.com/EnderWolf006/HomeworkBoard/raw/main/ReadMeImages/img.png)
 
 ![Github Stars](https://img.shields.io/github/stars/EnderWolf006/HomeworkBoard?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/EnderWolf006/HomeworkBoard?style=flat)
